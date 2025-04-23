@@ -4,7 +4,7 @@
           src="../assets/logo.png" id="i6ukl7o-2"></a><button type="button" data-bs-toggle="collapse"
         data-bs-target="#navbarSupportedContent" id="i4dxoqi-2" class="navbar-toggler"><span id="iyls165-2"
           class="navbar-toggler-icon"></span></button>
-      <div id="i6yq6ef-2" class="collapse navbar-collapse">
+      <div id="navbarSupportedContent" class="collapse navbar-collapse">
         <ul id="iv24gxz-2" class="navbar-nav me-auto mb-2 mb-lg-0">
           <li id="ixahy2b-2" class="nav-item"><a aria-current="page" href="/" id="it6bivs-2" class="nav-link active"><span
                 id="ishq82j-2">Home</span></a></li>

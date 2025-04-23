@@ -96,9 +96,8 @@
     </section>
     <section class="hero">
       <div class="container">
-        <h3>Maritime Software</h3>
-        <p>Our maritime software ranges from predictive maintenance systems to logistics tracking, ensuring
-          optimal fleet performance and reduced downtime </p>
+        <h3>Custom Software</h3>
+        <p>Our custom software ranges from educational tools, to marine predictive maintenance systems and logistics tracking, to make daily tasks easier and faster. </p>
       </div>
     </section>
     <section class="accordion">
@@ -106,7 +105,7 @@
         <div class="accordion-item">
           <div class="accordion-header" @click="comingSoon()">
             <div class="accordion-icon">✓</div>
-            <div class="accordion-title">Logistics & Maintenance</div>
+            <div class="accordion-title">Marine Logistics & Maintenance</div>
             <div class="accordion-toggle">›</div>
           </div>
           <div class="accordion-content">
